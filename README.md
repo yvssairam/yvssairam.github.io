@@ -2,7 +2,7 @@
   <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br> -->
   <samp>
-    I'm <a href="https://coderjojo.netlify.app/">Shanmukh</a> currently a IT Guy:boy: and aspiring Developer:computer:. My interest lies in field of Distributed Ledger Technologies, Software Development, DevOps and Web Security. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
+    I'm <a href="#">Shanmukh</a> currently a IT Guy:boy: and aspiring Developer:computer:. My interest lies in field of Distributed Ledger Technologies, Software Development, DevOps and Web Security. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
   </samp>
 </p>
 
