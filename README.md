@@ -1,29 +1,29 @@
-## Welcome to GitHub Pages
+<p>
+  <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
+  <br><br> -->
+  <samp>
+    I'm <a href="https://coderjojo.netlify.app/">Shanmukh</a> currently a IT Guy:boy: and aspiring Developer:computer:. My interest lies in field of Distributed Ledger Technologies, Software Development, DevOps and Web Security. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
+  </samp>
+</p>
 
-Hello
+### Connect with me :smiley:
+<a href="https://twitter.com/yvssairam">
+  <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+</a>
+<a href="https://dev.to/coderjojo">
+  <img align="left" alt="DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
+</a>
+<a href="https://www.linkedin.com/in//">
+  <img align="left" alt="Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
+</a><br/><br/>
+<p align="center">
+<!--<img alt="spotify" width="235px" src="#" /> -->
+</p>
+<br/><br/>
 
-You can use the [editor on GitHub](https://github.com/yvssairam/yvssairam.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+<!-- ![ViewCount](https://views.whatilearened.today/views/github/coderjojo/views.svg) -->
